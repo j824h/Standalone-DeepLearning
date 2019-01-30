@@ -44,7 +44,8 @@ Logistic Regression, Multi-Label Classification, Artificial Neural Network
 
 :bar_chart: Lab3(Pytorch Classification) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lab3_pytorch_classification_demo.ipynb) / [비디오](https://youtu.be/_zbSlxz7ENI)
 
-:mortar_board: Assignment1(Pytorch MNIST) / [시작 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Assignment1_pytorch_MNIST_MLP.ipynb) / [설명 비디오](https://youtu.be/keQ59-RHnJE?t=644) / [피드백 및 과제 제출용 설문](https://goo.gl/forms/znUwZOIHyAtrw2jG3) / (**Due: 2019.01.23(Wed) 22:00**)  
+:mortar_board: Assignment1(Pytorch MNIST) / [시작 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Assignment1_pytorch_MNIST_MLP.ipynb) / [설명 비디오](https://youtu.be/keQ59-RHnJE?t=644) /   
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[피드백 및 과제 제출용 설문](https://goo.gl/forms/znUwZOIHyAtrw2jG3) / (**Due: 2019.01.23(Wed) 22:00**)  
 
 :loudspeaker: **2회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/znUwZOIHyAtrw2jG3)    
 
@@ -72,9 +73,31 @@ Model Capacity, Overfitting/Underfitting, Regularization
 
 :bar_chart: Lab4(Pretty Code) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lab4_write_pretty_DL_code.ipynb) / [비디오](https://youtu.be/lh2Ed-b5l28)  
 
-:mortar_board: Assignment2(Cifar10 Hyperparameter Tuning) / [시작 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lab4_write_pretty_DL_code.ipynb) / [설명 비디오](https://youtu.be/lh2Ed-b5l28) / [피드백 및 과제 제출용 설문](https://goo.gl/forms/2bTUJdyzHTEFxFth1) / (**Due: 2019.01.27(Sun) 22:00**)    
+:mortar_board: Assignment2(Cifar10 Hyperparameter Tuning) / [시작 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lab4_write_pretty_DL_code.ipynb) / [설명 비디오](https://youtu.be/lh2Ed-b5l28) /  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[피드백 및 과제 제출용 설문](https://goo.gl/forms/2bTUJdyzHTEFxFth1) / (**Due: 2019.01.27(Sun) 22:00**)    
 
 :loudspeaker: **3회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/2bTUJdyzHTEFxFth1)    
+
+#  
+
+#### Lec4 (01/28, Mon)  
+Optimizer, Visualize 5 dimension Data with Pandas & Seaborn  
+
+:pencil2: Lec4-A(with Lab5) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lec4-A.pdf) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lab5_regularization_implemented.ipynb) / [비디오](https://youtu.be/qx9uglq80Qs)  
+
+:pencil2: Lec4-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lec4-B.pdf) / [비디오](https://youtu.be/a5R4gL1ObP8)    
+
+:bar_chart: Lab6 / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lec4-C.pdf) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lab6_result_report.ipynb) / [비디오](https://youtu.be/7CMxgqvrDgg)  
+
+:mortar_board: Assignment3(Again, Cifar10 Hyperparameter Tuning) / [시작 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Assignment3_cifar10_MLP.ipynb) /  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[피드백 및 과제 제출용 설문](https://goo.gl/forms/XQHdElHCueyCwfoi2) / (**Due: 2019.01.30(Wed) 22:00**)  
+
+:loudspeaker: **4회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/XQHdElHCueyCwfoi2)    
+    
+
+
+
+
 
 
 
