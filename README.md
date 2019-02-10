@@ -108,25 +108,35 @@ Basic of Convolutional Neural Network (CNN)
 
 :mortar_board: Assignment4(CIFAR-10 classification with CNN) / [시작코드]() / [피드백 및 과제 제출용 설문](https://goo.gl/forms/32IOKOodoBjY63VO2) / (**Due: 2019.02.06(Wed) 22:00**)
 
-:loudspeaker: 5회차를 즐기셨거나 혹은 어려웠다면 피드백을 남겨주세요! / [피드백 설문](https://goo.gl/forms/32IOKOodoBjY63VO2)
+:loudspeaker: **5회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/32IOKOodoBjY63VO2)
 
 #
     
 #### Lec6 (02/07, Thur)
 
-Advanced CNN Architectures
+Advanced CNN Architectures (Skip-connection, Inception, ResNet)
 
-:pencil2: Lec6-A (Review of assignment #3) / [과제 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Assignment3_cifar10_MLP.ipynb) / [비디오](https://www.youtube.com/watch?v=NPcQ_SdSDN0&t=5s)
+:pencil2: Lec6-A (Review of assignment #4) / [과제 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Assignment4_CIFAR-10_with_CNN.ipynb) / [비디오](https://www.youtube.com/watch?v=fPibzxr6LdQ&t=17s)
 
-:pencil2: Lec6-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Lec5-A.pdf) / [비디오](https://www.youtube.com/watch?v=PIft4URoQcw)
+:pencil2: Lec6-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/Lec6-A.pdf) / [비디오](https://www.youtube.com/watch?v=8mI9zRdx2Es)
 
-:bar_chart: Lab8 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Lab7_CIFAR-10_with_CNN.ipynb) / [비디오](https://www.youtube.com/watch?v=uskpN90u-dE)
+:bar_chart: Lab8 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/Lab8_CIFAR_100_with_ResNet.ipynb) / [비디오](https://www.youtube.com/watch?v=Fh3vxJNoREA)
 
-:mortar_board: Assignment5(CIFAR-100 classification with CNN) / [시작코드]() / [피드백 및 과제 제출용 설문](https://goo.gl/forms/32IOKOodoBjY63VO2) / (**Due: 2019.02.06(Wed) 22:00**)
+:mortar_board: Assignment5(CIFAR-100 classification with ResNet) / [시작코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/Assignment5_CIFAR-100_with_ResNet.ipynb) / [피드백 및 과제 제출용 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2) / (**Due: 2019.02.010(Sun) 22:00**)
 
-:loudspeaker: 5회차를 즐기셨거나 혹은 어려웠다면 피드백을 남겨주세요! / [피드백 설문](https://goo.gl/forms/32IOKOodoBjY63VO2)
+:loudspeaker: **6회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2)
 
+ #  
+ 
+ #### Lec7 (02/11, Mon)  
+ 
+ Basic of Recurrent Neural Network (RNN)  
   
-    
+ <시작 전에 보면 좋은 자료들>
+
+:bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)  
+:bookmark_tabs: LSTM을 pytorch에서 정확하게 쓰려면? -> [LSTM for time series in pytorch](http://www.jessicayung.com/lstms-for-time-series-in-pytorch/)  
+
+:bar_chart: Lab9 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec7/Lab9_Stock_Price_Prediction_with_LSTM.ipynb) / [비디오]()
 
 
